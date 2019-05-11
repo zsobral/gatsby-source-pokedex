@@ -2,6 +2,7 @@
   "name": "gatsby-source-pokedex",
   "version": "1.0.0",
   "description": "Gatsby source plugin for building website using pokemons from the first gen",
+  "main": "gatsby-node.js",
   "scripts": {
     "lint": "eslint --fix './**/*.js'",
     "test": "jest"
