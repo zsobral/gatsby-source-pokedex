@@ -14,6 +14,8 @@
     "pokemon"
   ],
   "author": "Mateus Sobral Monteiro <mateus.sobral.monteiro@gmail.com>",
+  "homepage": "https://github.com/zsobral/gatsby-source-pokedex#readme",
+  "repository": "https://github.com/zsobral/gatsby-source-pokedex",
   "license": "MIT",
   "dependencies": {
     "fs-extra": "^7.0.1"
