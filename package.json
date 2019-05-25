@@ -1,6 +1,6 @@
 {
   "name": "gatsby-source-pokedex",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Gatsby source plugin for building website using pokemons from the first gen",
   "main": "gatsby-node.js",
   "scripts": {
